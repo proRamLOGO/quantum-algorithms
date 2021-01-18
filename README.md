@@ -1,16 +1,7 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-<!-- [![MIT License][license-shield]][license-url] -->
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/proRamLOGO/quantum-algorithms">
-    <img src="https://www.sciencenews.org/wp-content/uploads/2017/07/070817_essay_qubit_main.png" alt="Logo" width="80" height="80">
+    <img src="https://www.sciencenews.org/wp-content/uploads/2017/07/070817_essay_qubit_main.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Quantum Computing Algorithms</h3>
