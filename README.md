@@ -23,5 +23,4 @@ quantum framework you like wether it be Qiskit or Q# or any other. Follow the be
 1. Fork this repository.
 2. Add your code into the folder with name of you framework used. If you do not see any such folder feel free to create one and edit this readme below by adding the name of your framework used and write a description about it.
 3. Make a pull request. We will accept your contribution if it is valid and verified.
-
-
+4. Since it is the beginning phase, if you want to change the folder structure then feel free to raise an issue.
